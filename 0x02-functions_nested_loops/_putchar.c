@@ -1,4 +1,4 @@
-#include "putchar.h"
+#include "main.h"
 #include <unistd.h>
 /**
  * Print _putchar followed by a new line
