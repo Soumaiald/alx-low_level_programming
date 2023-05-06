@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-  * print_alphabet function
+  * print_alphabet - Make alphabet
   *
-  *
+  * Return: void
   */
 void print_alphabet(void)
 {
