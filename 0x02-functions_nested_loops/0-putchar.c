@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main function
- * add
+ * main - Entry point
  *
+ * Return: void
  */
 int main(void)
 {
