@@ -7,10 +7,6 @@
   */
 void print_alphabet(void)
 {
-	/** 
-	 * adding description inside the function
-	 *
-	 */
 	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
